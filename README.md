@@ -31,7 +31,7 @@
     Ryan is attempting to purchase a product for his daughter
 
     Ryan is unaware of the current trends and would like suggestions on products
-    
+
     -  Bob(Admin)
     Bob is a store owner
 
